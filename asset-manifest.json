@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.46eb3b12.css",
-    "main.js": "/static/js/main.0a98b74a.js",
+    "main.js": "/static/js/main.0ae20988.js",
     "static/media/real.gif": "/static/media/real.d71179e83f369953bb91.gif",
     "static/media/BANGLADESH.png": "/static/media/BANGLADESH.19454dcf56aba1f5a54a.png",
     "static/media/AQIVSTEMP.png": "/static/media/AQIVSTEMP.c6ee5c24cb493a828ed7.png",
@@ -16,10 +16,10 @@
     "static/media/HRANALYTICS.png": "/static/media/HRANALYTICS.a5877a9e8fff8b4da2d2.png",
     "index.html": "/index.html",
     "main.46eb3b12.css.map": "/static/css/main.46eb3b12.css.map",
-    "main.0a98b74a.js.map": "/static/js/main.0a98b74a.js.map"
+    "main.0ae20988.js.map": "/static/js/main.0ae20988.js.map"
   },
   "entrypoints": [
     "static/css/main.46eb3b12.css",
-    "static/js/main.0a98b74a.js"
+    "static/js/main.0ae20988.js"
   ]
 }
