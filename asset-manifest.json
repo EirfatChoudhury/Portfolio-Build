@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.46eb3b12.css",
-    "main.js": "/static/js/main.2178ce17.js",
+    "main.js": "/static/js/main.0a98b74a.js",
     "static/media/real.gif": "/static/media/real.d71179e83f369953bb91.gif",
     "static/media/BANGLADESH.png": "/static/media/BANGLADESH.19454dcf56aba1f5a54a.png",
     "static/media/AQIVSTEMP.png": "/static/media/AQIVSTEMP.c6ee5c24cb493a828ed7.png",
     "static/media/MOVIES.png": "/static/media/MOVIES.4621ac0faca5f10c29a0.png",
     "static/media/FSO.jpg": "/static/media/FSO.04ff9c5d1456245eca03.jpg",
     "static/media/TABLEAU.png": "/static/media/TABLEAU.cb88af31c1eaa338faee.png",
-    "static/media/HRANALYTICS.png": "/static/media/HRANALYTICS.3bf7aa1df3056d6b4450.png",
     "static/media/CS50p.jpg": "/static/media/CS50p.c80e331379d4fd7afe19.jpg",
     "static/media/CS50x.jpg": "/static/media/CS50x.c314d0739d24bcff6f60.jpg",
     "static/media/PUBMED.png": "/static/media/PUBMED.da0dc7900d74cdedded2.png",
     "static/media/background.jpg": "/static/media/background.d5a15723247d3f974ebe.jpg",
     "static/media/real.jpg": "/static/media/real.68bba22f844a6720d790.jpg",
+    "static/media/HRANALYTICS.png": "/static/media/HRANALYTICS.a5877a9e8fff8b4da2d2.png",
     "index.html": "/index.html",
     "main.46eb3b12.css.map": "/static/css/main.46eb3b12.css.map",
-    "main.2178ce17.js.map": "/static/js/main.2178ce17.js.map"
+    "main.0a98b74a.js.map": "/static/js/main.0a98b74a.js.map"
   },
   "entrypoints": [
     "static/css/main.46eb3b12.css",
-    "static/js/main.2178ce17.js"
+    "static/js/main.0a98b74a.js"
   ]
 }
